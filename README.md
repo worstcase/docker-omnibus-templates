@@ -47,3 +47,8 @@ docker run --rm --name wheezy-nrouter-build -v `pwd`/pkg:/pkg -i -t omnibus-prec
 ```
 
 Your build artifact will be dropped off in the `pkg` directory.
+
+## Credits
+This project was inspired by the [http://flapjack.io/docs/1.0/development/Omnibus-In-Your-Docker/](Flapjack project which said they got the toolchain idea from me so who knows.)
+
+Regardless, it's pretty helpful.
