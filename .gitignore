@@ -1,0 +1,10 @@
+*/pkg/*.json
+*/pkg/*.deb
+*/pkg/*rpm 
+*/pkg/*
+**/pkg/*
+**/pkg/*.json
+**/pkg/*.deb
+**/pkg/*rpm 
+*/vagrant-omnibus-deploykey*
+**/vagrant-omnibus-deploykey*
